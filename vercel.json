@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "cd crmef && npm run build",
+  "outputDirectory": "crmef/.next",
+  "installCommand": "cd crmef && npm install"
+}
